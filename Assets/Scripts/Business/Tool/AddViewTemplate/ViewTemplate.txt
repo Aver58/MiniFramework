@@ -1,0 +1,12 @@
+using Scripts.Bussiness.Controller;
+using Scripts.Framework.UI;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class #ClassName#View : UIViewBase {
+    protected override void OnInit() {}
+    protected override void OnClear() { }
+    protected override void OnOpen() { }
+    protected override void OnClose() { }
+    protected override void UpdateView() {}
+}

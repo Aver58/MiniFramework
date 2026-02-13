@@ -1,0 +1,10 @@
+using Scripts.Bussiness.Model;
+using Scripts.Framework.UI;
+using UnityEngine;
+
+namespace Scripts.Bussiness.Controller {
+    public class #ClassName#Controller : ControllerBase {
+        public #ClassName#Controller() {
+        }
+    }
+}

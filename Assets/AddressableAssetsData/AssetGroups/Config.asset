@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  m_GroupName: Config
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d3084e61f2470d64c96b34c284f888f4
+  m_SerializeEntries:
+  - m_GUID: 01887eaa7f20b634387b5ee61ebb0a4c
+    m_Address: Assets/ToBundle/Config/LubanConfigs/tbsprite.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fca5134874825b4a809aa2697dd7eee
+    m_Address: Assets/ToBundle/Config/LubanConfigs/tbuiviewdefine.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ea27fee66484590ab20bd6d04975440
+    m_Address: Assets/ToBundle/Config/Localization/Chinese/Language.csv
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fa73afbe182e314daca9153b6b8af72
+    m_Address: Assets/ToBundle/Config/LubanConfigs/tbtest.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8db9fcc450bbf1748a361084ec5131bb
+    m_Address: Assets/ToBundle/Config/LubanConfigs/tbspriteatlas.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d503d2a1e51134f4dab72c45a9573fa9
+    m_Address: Assets/ToBundle/Config/LubanConfigs/demo_tbitem.json
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edc45afaa5f546c48d2cd5198256a1f3
+    m_Address: Assets/ToBundle/Config/Localization/English/Language.csv
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0f728d266239ddb4c8a26b329c0e5a74, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 412855bfd91558748b88624c28414716, type: 2}
+    - {fileID: 11400000, guid: d75c9a5b6b52ac34c862079956d32ccc, type: 2}
