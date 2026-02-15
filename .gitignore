@@ -84,3 +84,8 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 .idea/
+# 忽略所有已下载的包实体
+/[Pp]ackages/*
+# 但是不要忽略配置文件
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
